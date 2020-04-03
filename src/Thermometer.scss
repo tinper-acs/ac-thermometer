@@ -272,7 +272,7 @@
     bottom: 0;
     left: initial;
     width: 100%;
-    background: linear-gradient(#2196F3, #8BC34A, #f44336);
+    background: linear-gradient(#f44336,#8BC34A, #2196F3);
 }
 
 .thermometer .thermometer__percent-current {
@@ -353,7 +353,7 @@
 }
 
 .thermometer .thermometer__draw-b:after {
-    background-color: #f44336;
+    background-color: #2196F3;
     border-radius: 50%;
 }
 
@@ -364,7 +364,7 @@
     bottom: 40px;
     left: 0;
     height: 20px;
-    background-color: #f44336;
+    background-color: #2196F3;
     border-radius: 50px 50px 0 0;
 }
 
